@@ -1,6 +1,7 @@
 package orderlisthandler;
 
 /**
+ * This test class aim to test the quickSort method in the Display class
  * 
  * author: Phu Ha
  * date: Mar 09, 20204

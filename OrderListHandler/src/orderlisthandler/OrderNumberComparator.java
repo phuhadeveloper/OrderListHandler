@@ -1,6 +1,8 @@
 package orderlisthandler;
 
 /**
+ * A OrderNumber Comparator class that implements the Comparator interface
+ * to compare two OrderDetails objects with respect to order number
  * 
  * author: Phu Ha
  * date: Mar 09, 20204
